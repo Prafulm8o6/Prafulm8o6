@@ -38,10 +38,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prafulm8o6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
 ![](https://github-readme-stats.vercel.app/api?username=Prafulm8o6&theme=city_light&hide_border=false&include_all_commits=true&count_private=false)
 
 <br/>
