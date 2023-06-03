@@ -52,8 +52,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prafulm8o6&theme=city_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- ![GitHub followers](https://img.shields.io/github/followers/Prafulm8o6?style=social) -->
-
 <br/>
 
 <div id="badges">
